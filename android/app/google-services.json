@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "642689669503",
+    "project_id": "dhaka-ott-platform",
+    "storage_bucket": "dhaka-ott-platform.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642689669503:android:ce93c0d9be7df308b9e24a",
+        "android_client_info": {
+          "package_name": "tv.dhakalive.ott"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642689669503-ui20imik75vmollgkpju1tj9stkdu0hk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_P-qIt9XByzvD_b0xJEtbPe3sJ71Eoqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642689669503-ui20imik75vmollgkpju1tj9stkdu0hk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
