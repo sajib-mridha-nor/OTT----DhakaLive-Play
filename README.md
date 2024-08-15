@@ -21,10 +21,12 @@ This project is a starting point for a Flutter application.
 * Continue Watching: Resume watching content right where you left off across all your devices.
 * Multi-language Subtitles: Enjoy content with subtitles in Bangla, English, and other regional languages.
 ## Below are some screenshots of the app view.
-![ott 3](https://github.com/user-attachments/assets/2353b0a1-3312-4878-8063-b2e9c17d58ad)
-![ott 2](https://github.com/user-attachments/assets/5b870f6b-9461-4c00-b11e-c50ce4a98e5c)
+
 ![ott 1](https://github.com/user-attachments/assets/52c487e8-93be-436d-8aaf-26403a5feaf9)
 
+![ott 2](https://github.com/user-attachments/assets/5b870f6b-9461-4c00-b11e-c50ce4a98e5c)
+
+![ott 3](https://github.com/user-attachments/assets/2353b0a1-3312-4878-8063-b2e9c17d58ad)
 
 ## Download
 
